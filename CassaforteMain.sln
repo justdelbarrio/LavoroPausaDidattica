@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CassaforteMain", "CassaforteMain\CassaforteMain.csproj", "{C3364B23-3659-4B07-99A2-4C6D9B87EAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3364B23-3659-4B07-99A2-4C6D9B87EAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3364B23-3659-4B07-99A2-4C6D9B87EAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3364B23-3659-4B07-99A2-4C6D9B87EAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3364B23-3659-4B07-99A2-4C6D9B87EAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAAB88C3-7FBA-4307-B516-7F19294C0B0F}
+	EndGlobalSection
+EndGlobal
